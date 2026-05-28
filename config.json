@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrelete",
+        "uuid": 2045196,
+        "checksum": "5zvfvp"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
